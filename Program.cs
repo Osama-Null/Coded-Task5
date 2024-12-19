@@ -39,5 +39,6 @@ Console.WriteLine("\n________________\n");
 //It can be used for creating table with data for example:
 string[,] arr4 = { { "23", "9" }, { "9", "4" } };
 //Output might be: 23 9
-//                  9 4                   
+//                  9 4
+Console.WriteLine("It can be used for creating table with data for example:\r\nstring[,] arr4 = { { \"23\", \"9\" }, { \"9\", \"4\" } };\r\nOutput might be: 23 9\r\n                  9 4 ");
 #endregion
